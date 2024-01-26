@@ -1,5 +1,5 @@
 import React from 'react'
-import ProductList from '../../features/productList'
+import ProductList from '../../features/productList/ProductList'
 
 function Home() {
   return (
